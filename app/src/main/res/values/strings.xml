@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practical Quiz</string>
+    <string name="name">Name:</string>
+    <string name="age">Age:</string>
+    <string name="classes">Class:</string>
+    <string name="save">Save</string>
+    <string-array name="array_name">
+        <item>W66M</item>
+        <item>W67J</item>
+        <item>W67K</item>
+        <item>W67C</item>
+    </string-array>
+</resources>
